@@ -1,0 +1,71 @@
+body{
+	background-image: url(../images/purple.png);
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: all; 
+    color:#cebb5a;
+	}
+ 
+header h1{
+    font-family: 'PT Serif', serif;
+    text-align: center;
+    font-size: 40px;
+   
+}
+
+header h2{
+	text-align: center;
+	font-family: 'PT Serif', serif;
+}
+
+h3{
+	font-family: 'PT Serif', serif;
+}
+
+.summary {
+	font-family: 'PT Serif', serif;
+	border-radius: 20px;
+	border-style:solid;
+	border-color: #ff69b4;
+	text-align: center;
+}
+
+.preamble {
+    font-family: 'PT Serif', serif;
+	border-radius: 20px;
+	border-style:solid;
+	border-color: #ff69b4;
+	text-align: center;
+}
+
+.explanation{
+	font-family: 'PT Serif', serif;
+	border-radius: 20px;
+	border-style:solid;
+	border-color: #ff69b4;
+	text-align: center;
+}
+
+.participation{
+    font-family: 'PT Serif', serif;
+	border-radius: 20px;
+	border-style:solid;
+	border-color: #ff69b4;
+	text-align: center;
+}
+
+.benefits{
+	font-family: 'PT Serif', serif;
+	border-radius: 20px;
+	border-style:solid;
+	border-color: #ff69b4;
+	text-align: center;
+}
+
+.requirements{
+	font-family: 'PT Serif', serif;
+	border-radius: 20px;
+	border-style:solid;
+	border-color: #ff69b4;
+	text-align: center;
+}
